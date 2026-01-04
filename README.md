@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Python Basics – Day 2  
 ## Conditions & Logical Thinking
-## 📚 Topics Covered
+## 📚 Topics Cover
 - `if` statement  
 - `if–else`
 - `if–elif–else`
@@ -32,3 +32,4 @@
 
 
 >>>>>>> ab6836bcc16d4d31776010e96fe994604009e6a3
+
