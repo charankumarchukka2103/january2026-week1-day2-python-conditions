@@ -30,15 +30,4 @@ Learn to make decisions in Python using conditions and logical operators.
 - Can explain logical operators in plain English
 - Can solve small decision-based problems independently
 
----
-
-## 📝 Notes
-- Logic written before coding
-- No copy–paste used
-- Focus on clarity, not shortcuts
-
----
-
-📅 **Day:** 2  
-📁 **Week:** 1  
 
