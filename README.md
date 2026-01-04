@@ -41,4 +41,4 @@ Learn to make decisions in Python using conditions and logical operators.
 
 📅 **Day:** 2  
 📁 **Week:** 1  
-🚀 **Next:** Day 3 – Loops & Iteration
+
